@@ -4,10 +4,11 @@ martini-bootstrap-template
 ### ติดตั้ง  package กันก่อน
 
 go get github.com/codegangsta/martini 
+
 go get github.com/codegangsta/martini-contrib/render
 
 
-### The MIT License (MIT)
+The MIT License (MIT)
 
 Copyright (c) 2014 munkaw
 
